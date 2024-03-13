@@ -1,0 +1,11 @@
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\bin\Debug\kutupane_ders_11.exe.config
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\bin\Debug\Öğrenci Kayıt.mdb
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\bin\Debug\kutupane_ders_11.exe
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\bin\Debug\kutupane_ders_11.pdb
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\obj\Debug\kutupane_ders_11.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\obj\Debug\kutupane_ders_11.Form1.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\obj\Debug\kutupane_ders_11.Properties.Resources.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\obj\Debug\kutupane_ders_11.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\obj\Debug\kutupane_ders_11.exe
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\obj\Debug\kutupane_ders_11.pdb
+C:\Users\Öğrenci\Documents\yusuf gülsül\YUSUF GÜLSÜL ACCESS\kutupane_ders_11\kutupane_ders_11\obj\Debug\kutupane_ders_11.kulanicı_giris.resources
